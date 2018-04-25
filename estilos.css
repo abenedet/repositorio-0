@@ -1,0 +1,33 @@
+
+body{
+	background: #76D7C4;
+}
+
+header h1{
+	font-family: Andele Mono;
+	color: black;
+    text-align: right;
+margin-right:300px;
+
+}
+
+aside{
+	float: left;
+	padding-left: 200px;
+}
+
+nav ul li{
+	font-family: Andele Mono;
+}
+
+nav{
+float:right;	
+padding-right: 300px;
+}
+
+.contenedor
+{
+	font-family: Andele Mono;
+
+	padding-left: 60px;
+}
